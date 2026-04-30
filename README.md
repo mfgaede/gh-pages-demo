@@ -4,6 +4,8 @@ A demo of GitHub Pages
 # Ida Bailey Allen's Orange and Date Cake
 ## Orange and Date Cake
 
+![Date cake with tea](/images/orange_date_cake.png)
+
 ### Ingredients
 - 1/2 cup butter
 - 1 cup sugar
